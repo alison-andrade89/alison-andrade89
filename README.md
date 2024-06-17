@@ -9,6 +9,9 @@ in personal projects
 👍 Com o que posso trabalhar
 
  Python
+ 
  HTML
+ 
  CSS
+ 
  MySQL

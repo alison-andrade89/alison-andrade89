@@ -7,6 +7,7 @@ in personal projects
 - 😄 Pronouns: he / him
 
 👍 Com o que posso trabalhar
+
  Python
  HTML
  CSS
